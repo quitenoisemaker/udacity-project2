@@ -2,6 +2,10 @@
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
 
+## GitHub repository URL
+
+https://github.com/quitenoisemaker/udacity-project2
+
 ## My Endpoint URL's
 1. Home : http://udagram-samson-dev-dev.us-east-1.elasticbeanstalk.com
 
